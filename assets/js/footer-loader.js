@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#about' : 'index.html#about'}">About Us</a></li>
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#services' : 'index.html#services'}">Services</a></li>
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#erpnext' : 'index.html#erpnext'}">ERPNext</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="fullfillo.html">FullFillo</a></li>
                 </ul>
               </div>
               <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 order-4 order-md-4 order-lg-3">
