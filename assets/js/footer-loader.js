@@ -33,15 +33,15 @@ document.addEventListener('DOMContentLoaded', function() {
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#about' : 'index.html#about'}">About Us</a></li>
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#services' : 'index.html#services'}">Services</a></li>
                   <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="${window.location.pathname.includes('index.html') || window.location.pathname === '/' ? '#erpnext' : 'index.html#erpnext'}">ERPNext</a></li>
-                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="fullfillo.html">FullFillo</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="fullfillo">FullFillo</a></li>
                 </ul>
               </div>
               <div class="col-lg-3 col-md-6 mb-4 mb-lg-0 order-4 order-md-4 order-lg-3">
                 <p class="fs-2 mb-lg-4">Legal stuff</p>
                 <ul class="list-unstyled mb-0">
-                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="disclaimer.html">Disclaimer</a></li>
-                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="privacy-policy.html">Privacy Policy</a></li>
-                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="terms-of-service.html">Terms of Service</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="disclaimer">Disclaimer</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="privacy-policy">Privacy Policy</a></li>
+                  <li class="mb-1"><a class="link-900 text-secondary text-decoration-none" href="terms-of-service">Terms of Service</a></li>
                 </ul>
               </div>
             </div>
