@@ -13,14 +13,16 @@ document.addEventListener('DOMContentLoaded', function() {
                 <b>India Office</b><br>
                 IC-01, Block A, SJCE STEP<br>
                 JSS Technical Institute Campus<br>
-                Mysuru - 570006, Karnataka, India
+                Mysuru - 570006, Karnataka, India<br>
+                <a href="tel:+919633931390" class="text-decoration-none text-dark">+91 96339 31390</a>
                 <br/>
                 <br/>
                 <b>US Office</b><br>
                 Negentropy Solutions LLC<br>
                 1401 21ST ST STE R<br>
                 SACRAMENTO, CA 95811<br>
-                United States
+                United States<br>
+                <a href="tel:+13413447090" class="text-decoration-none text-dark">+1 (341) 344-7090</a>
                 <br/>
                 <br/>
                 <b>Email</b><br>
